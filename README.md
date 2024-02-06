@@ -1,2 +1,2 @@
 # learn_git
-i am learning github today!!
+i am learning github today from apna college!!
