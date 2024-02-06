@@ -1,2 +1,2 @@
 # learn_git
-learning github
+i am learning github today!!
